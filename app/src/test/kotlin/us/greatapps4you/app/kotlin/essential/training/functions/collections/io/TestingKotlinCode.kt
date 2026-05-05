@@ -1,3 +1,5 @@
+package us.greatapps4you.app.kotlin.essential.training.functions.collections.io.us.greatapps4you.app.kotlin.essential.training.functions.collections.io
+
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
