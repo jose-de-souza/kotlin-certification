@@ -1,4 +1,4 @@
-package us.greatapps4you.app.kotlin.essential.training.functions.collections.io
+package us.greatapps4you.kotlin.essential.training.funcolio
 
 fun collectionsDemo() {
     // --- Arrays ---

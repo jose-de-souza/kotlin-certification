@@ -1,4 +1,4 @@
-package us.greatapps4you.app.kotlin.essential.training.functions.collections.io
+package us.greatapps4you.kotlin.essential.training.funcolio
 
 // 2. Common Data Types
 

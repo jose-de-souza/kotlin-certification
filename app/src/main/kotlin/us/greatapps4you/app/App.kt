@@ -1,10 +1,8 @@
 package us.greatapps4you.app
 
-import us.greatapps4you.app.kotlin.essential.training.functions.collections.io.dataTypes
-
-
 fun main() {
-    dataTypes()
+
+// dataTypes()
     //numericDataTypes()
     //charDataType()
 
