@@ -1,7 +1,6 @@
-package us.greatapps4you.kotlin.essential.training.oop.async
+package us.greatapps4you.kotlin.essential.training.oop.classes
 
 import org.junit.jupiter.api.Assertions
-import us.greatapps4you.us.greatapps4you.kotlin.essential.training.oop.async.Student
 import kotlin.test.Test
 
 class StudentTest {

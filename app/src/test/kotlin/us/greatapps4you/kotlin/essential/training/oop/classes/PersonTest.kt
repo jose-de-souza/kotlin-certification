@@ -1,4 +1,4 @@
-package us.greatapps4you.kotlin.essential.training.oop.async
+package us.greatapps4you.kotlin.essential.training.oop.classes
 
 import org.junit.jupiter.api.Assertions
 import kotlin.test.Test
@@ -9,10 +9,10 @@ class PersonTest {
     fun given_FirstAndLastName_whenRun_thenReturnFullName() {
 
            val person = Person(
-                45,
-                firstName = "Jose",
-                lastName = "Esteves"
-            )
+               45,
+               firstName = "Jose",
+               lastName = "Esteves"
+           )
 
         Assertions.assertEquals("Jose Esteves", person.fullName())
     }

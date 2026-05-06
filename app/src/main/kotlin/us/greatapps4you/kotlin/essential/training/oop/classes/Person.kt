@@ -1,4 +1,4 @@
-package us.greatapps4you.kotlin.essential.training.oop.async
+package us.greatapps4you.kotlin.essential.training.oop.classes
 
 open class Person(
     val age: Int,
